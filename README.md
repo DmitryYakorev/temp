@@ -1,1 +1,1 @@
-# rsschool-cv
+Dmitry Yakorev

@@ -4,4 +4,3 @@ working at CERN(many times,about 10,2001-2006),Texas A&M University(2006-2007),D
 does not work,because an invalid(cannot walk & talk). <br>
 High education - St-Petersburg Technical University,Nuclear Physics. <br>
 English - fluently
-1

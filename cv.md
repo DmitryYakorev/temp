@@ -1,6 +1,7 @@
-Dmitry Yakorev
-email urakend@mail.ru . Address :Gatchina,25 October,75,125
+Dmitry Yakorev <br>
+email urakend@mail.ru . Address :Gatchina,25 October,75,125 <br>
 working at CERN(many times,about 10,2001-2006),Texas A&M University(2006-2007),Dresden HRZD(2007-2011).Since 2011 up to now
-does not work,because an invalid(cannot walk & talk)
-High education - St-Petersburg Technical University,Nuclear Physics
+does not work,because an invalid(cannot walk & talk). <br>
+High education - St-Petersburg Technical University,Nuclear Physics. <br>
 English - fluently
+1
